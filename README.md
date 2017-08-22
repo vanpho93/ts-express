@@ -72,4 +72,7 @@ Chương 10. Làm việc với NgRx
 
 	Tại sao cần tới ngRx? 
 	Cấu trúc NgRx 
-	Reducers Actions Store State 
+	Reducers Actions Store State
+	Component sử dụng dữ liệu trong store
+	Dispatch action từ trong component 
+	Kết hợp authentication với ngRx
